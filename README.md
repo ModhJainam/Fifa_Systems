@@ -4,11 +4,3 @@
 ## Jainam Modh (jmodh)
 ## Arav Jain (aravj)
 
-### Task-I:
-#### Steps
-1. Create Postgres Schema "mqtt" using PgAdmin 4.
-#### Feature Descriptions
-1. d
-
-#### In this specific dataset, would it be better to use a NoSQL database (e.g., Neo4J) over PostgreSQL?
-
