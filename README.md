@@ -5,6 +5,12 @@
 ## Arav Jain (aravj)
 
 # Task 1
+## Steps for replication 
+- Download github repo for dataset and code
+- Create a schema in postgres with the name "fifa"
+- Change username in db_properties
+- Change password in db_properties
+
 ## Feature Descriptions
 The fifa dataset imported into PostgreSQL contain the following features:
 <details>
@@ -141,3 +147,16 @@ The fifa dataset imported into PostgreSQL contain the following features:
 
 ## PostgreSQL vs. NoSQL
 PostgreSQL is a relational database that allows for faster storage, simpler data representation, and faster manipulation than the more complex data structures possible with a NoSQL database. A relational database is more useful for the fifa dataset as the data is already structured in the format of a row-column table in the given csv files. Additionally, a relational database representation is more useful for faster and more complex querying and analytics without worrying about how the data is stored for long-term use. Because we only need to use the database to store and retrieve data for a small analytics based project, it does not require the high scalability and performance optimization capabilities of a NoSQL database. 
+
+
+# Task 2
+## Steps for replication 
+- Download github repo for dataset and code
+- Create a schema in postgres with the name "fifa"
+- Change username in db_properties
+- Change password in db_properties
+- For Task 2.1
+    - input X, Y, Z
+- For Task 2.2
+    - input X, Y, highest (Boolean - True if Highest avg age False if Lowest avg age)
+
