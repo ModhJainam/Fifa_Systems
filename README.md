@@ -1,8 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VuODydzp)
 
 # Collaborators
-## Jainam Modh (jmodh)
-## Arav Jain (aravj)
+Jainam Modh (jmodh)
+<br>
+Arav Jain (aravj)
 
 # Task 1
 ## Steps for replication 
