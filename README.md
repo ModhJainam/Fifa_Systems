@@ -180,6 +180,6 @@ To run entire thing (using m1pro Apple silicon "mps")
 - For Task 3
     - Training + hyperparameter tuning will take ~1.5 hours for MLP on a M1Pro macbook pro with 16gigs ram
     - Training + hyperparameter tuning will take ~0.5 hours for LR on a M1Pro macbook pro with 16gigs ram
-    - For testing purposes (best to use the saved .pth models (there is a test_function(model_class) function which takes "MLP" or "LR" as input)
+    - For testing purposes (best to use the saved .pth models (there is a test_function(model_class) function which takes "MLP" or "LR" as input). This is for the pytorch models.
     - 
   
