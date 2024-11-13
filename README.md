@@ -161,3 +161,25 @@ PostgreSQL is a relational database that allows for faster storage, simpler data
 - For Task 2.2
     - input X, Y, highest (Boolean - True if Highest avg age False if Lowest avg age)
 
+
+
+
+
+
+
+To run entire thing (using m1pro Apple silicon "mps")
+- Download github repo for dataset and code
+- Create a schema in postgres with the name "fifa"
+- Change username in db_properties
+- Change password in db_properties
+- For Task 2.1
+    - input X, Y, Z
+- For Task 2.2
+    - input X, Y, highest (Boolean - True if Highest avg age False if Lowest avg age)
+- For Task 2.3 - run directly
+- For Task 3
+    - Training + hyperparameter tuning will take ~1.5 hours for MLP on a M1Pro macbook pro with 16gigs ram
+    - Training + hyperparameter tuning will take ~0.5 hours for LR on a M1Pro macbook pro with 16gigs ram
+    - For testing purposes (best to use the saved .pth models (there is a test_function(model_class) function which takes "MLP" or "LR" as input)
+    - 
+  
