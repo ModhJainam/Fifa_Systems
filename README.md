@@ -7,7 +7,7 @@ Arav Jain (aravj)
 
 #Video runthrough
 - Local - https://cmu.box.com/s/cc0eqs5xg3aafstn7pqe0qafl6lxwpj6
-- Cloud (Task 4) - https://cmu.box.com/s/bt92jkeknbd46oya9qcwohkl4oi7jmbz
+- Cloud (Task 4) - [https://cmu.box.com/s/bt92jkeknbd46oya9qcwohkl4oi7jmbz](https://cmu.box.com/s/olwyan6o3z3rvemuvphmi3xgbd4n4r7y)
 
 # Task 1
 ## Steps for replication 
