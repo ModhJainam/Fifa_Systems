@@ -6,8 +6,8 @@ Jainam Modh (jmodh)
 Arav Jain (aravj)
 
 #Video runthrough
-video 1 - https://cmu.box.com/s/cc0eqs5xg3aafstn7pqe0qafl6lxwpj6
-video 2 - https://cmu.box.com/s/bt92jkeknbd46oya9qcwohkl4oi7jmbz
+- Local - https://cmu.box.com/s/cc0eqs5xg3aafstn7pqe0qafl6lxwpj6
+- Cloud (Task 4) - https://cmu.box.com/s/bt92jkeknbd46oya9qcwohkl4oi7jmbz
 
 # Task 1
 ## Steps for replication 
