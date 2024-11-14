@@ -5,6 +5,9 @@ Jainam Modh (jmodh)
 <br>
 Arav Jain (aravj)
 
+#Video runthrough
+video 1 - https://cmu.box.com/s/cc0eqs5xg3aafstn7pqe0qafl6lxwpj6
+
 # Task 1
 ## Steps for replication 
 - Download github repo for dataset and code
