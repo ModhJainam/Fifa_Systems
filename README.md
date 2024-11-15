@@ -237,16 +237,3 @@ The following table compares the performance ($R^2$ scores) of the best 2 SparkM
 | PyTorch MLP | 0.9884 |
 
 As expected, the PyTorch Multi Layer Perceptron had the best performance with a $R^2$ score of 0.9884.
-
-
-
-
-
-
-
-
-
-
-
-    - 
-  
